@@ -1,4 +1,4 @@
-# 📦 dickmanpious
+# 📦 npm install dickmanpious
 
 A simple, lightweight Node.js package published to the npm registry, created to demonstrate the full lifecycle of building, versioning, and publishing an npm package.
 
