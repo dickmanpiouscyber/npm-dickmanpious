@@ -1,9 +1,11 @@
-﻿{
+{
   "name": "dickmanpious",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My test npm package",
   "main": "index.js",
   "author": "DICKMAN PIOUS",
   "license": "MIT",
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }
