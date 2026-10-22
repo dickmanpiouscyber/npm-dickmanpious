@@ -72,7 +72,6 @@ Remove-Item .npmrc -Force
 
 Dickman Pious
 - GitHub: @dickmanpiouscyber
-- npm: dkpious31
 
 ## 📄 License
 
